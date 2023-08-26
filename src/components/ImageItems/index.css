@@ -1,0 +1,6 @@
+.list-container {
+  list-style-type: none;
+  display: flex;
+  max-width: 70%;
+  flex-wrap: wrap;
+}

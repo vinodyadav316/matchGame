@@ -1,0 +1,15 @@
+.tabs-con {
+  display: flex;
+}
+
+.tabItem-name {
+  font-family: roboto;
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 30px;
+  padding-right: 20px;
+}
+
+.tabItemStatus {
+  border-bottom: 2px solid #fec653;
+}
